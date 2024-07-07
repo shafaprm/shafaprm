@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @shafaprm
-- 👀 I’m interested in programming
-- 🌱 I’m a junior front-end developer
-- 💞️ I’m looking to collaborate on nothing,just want to learn code
-- 📫 How to reach me shafaprmdna2409@gmail.com
+<h3>Hello there</h3>
+<h4>A machine learning enthusiast</h4>
 
-<!---
-shafaprm/shafaprm is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<ul>
+<li>⚙️ I use .python daily with .sklearn, .tensorflow and .keras for machine learning</li>
+</ul>
